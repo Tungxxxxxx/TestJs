@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1696056378837" clover="3.2.0">
+  <project timestamp="1696056378837" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="17" coveredconditionals="17" methods="1" coveredmethods="1" elements="28" coveredelements="28" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="lastDayOfMonth.js" path="E:\HOC TAP\JS\Test\src\lastDayOfMonth.js">
+      <metrics statements="10" coveredstatements="10" conditionals="17" coveredconditionals="17" methods="1" coveredmethods="1"/>
+      <line num="9" count="20" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="19" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="17" type="cond" truecount="4" falsecount="0"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="19" count="15" type="stmt"/>
+      <line num="26" count="15" type="cond" truecount="2" falsecount="0"/>
+    </file>
+  </project>
+</coverage>
